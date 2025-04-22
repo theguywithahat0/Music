@@ -1,10 +1,12 @@
-# Welcome to My Lyrics Repository
+# 🎤 Welcome to My Lyrics Repository
 
-Here, I share lyrics I’ve written — mostly metal, mostly historical, and mostly about the Normans.
-I work with AI tools (Suno for music, and ChatGPT for co-writing), but in the end, about 80% of the lyrics are mine, shaped by my voice and vision.
+🎸 Here, I share lyrics I’ve written — mostly rock/metal, mostly historical, and mostly about the Normans.
 
-All lyrics and songs in this repo are published under a Creative Commons license.
-You're free to use, adapt, or build upon them — just credit me if you do. That would be much appreciated.
+🤖 I work with AI tools (Suno for music, and ChatGPT for co-writing), but in the end, about 80% of the lyrics are mine, shaped by my voice and vision.
+
+📝 All lyrics and songs in this repo are published under a Creative Commons license.
+
+📂 You're free to use, adapt, or build upon them — just credit me if you do. That would be much appreciated.
 
 ## ⚔️ Normans in the South – A Metal EP in Three Episodes 
 
