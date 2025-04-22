@@ -11,7 +11,7 @@
 ## ⚔️ Normans in the South – A Metal EP in Three Episodes 
 
 <p align="center">
-  <img src="./assets/Normans_EP_cover.png.png" alt="Normans in Southern Italy" width="600"><br>
+  <img src="./assets/Normans_EP_cover.png" alt="Normans in Southern Italy" width="600"><br>
   <em>Normans in the South</em>
 </p>
 
