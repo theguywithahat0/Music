@@ -1,4 +1,4 @@
-![Rainulf Drengot](../assets/aversa.png)
+![Rainulf Drengot](../assets/Aversa.png)
 
 [Intro – instrumental build]
 [Sound: thunder, distant drums, ambient wind swell]
