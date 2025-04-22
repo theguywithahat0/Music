@@ -8,7 +8,7 @@ You're free to use, adapt, or build upon them — just credit me if you do. That
 ⚔️ Normans in the South – A Metal EP in Three Episodes
 
 <p align="center">
-  <img src="../assets/normans-map.png" alt="Normans in Southern Italy" width="600"><br>
+  <img src="./assets/normans-map.png" alt="Normans in Southern Italy" width="600"><br>
   <em>Normans in the South</em>
 </p>
 
