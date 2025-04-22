@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="../assets/Aversa.png" alt="Rainulf Drengot" width="600"><br>
-  <em>Map: The Normans in the South</em>
+  <img src="../assets/Aversa.png" alt="Rainulf Drengot" width="400"><br>
+  <em>ainulf Drengot, Firt Count of Aversa</em>
 </p>
 
 [Intro – instrumental build]
