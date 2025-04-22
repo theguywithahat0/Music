@@ -1,4 +1,7 @@
-![Rainulf Drengot](../assets/Aversa.png)
+<p align="center">
+  <img src="../assets/Aversa.png" alt="Rainulf Drengot" width="600"><br>
+  <em>Map: The Normans in the South</em>
+</p>
 
 [Intro – instrumental build]
 [Sound: thunder, distant drums, ambient wind swell]
