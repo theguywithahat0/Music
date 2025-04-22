@@ -63,3 +63,5 @@ They would come to the Lombard's aid.
 [Finale – Rising orchestration, layered vocals]  
 Brave knights, cadets from Normandy,  
 Will make their mark in history!
+
+April 22, 2025 at 8:23 PM - Jeremie Hugues
