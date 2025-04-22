@@ -1,3 +1,8 @@
+> **Historical Background – Aversa (1030)**
+>
+> In the years following Cannae, the Normans transitioned from mercenaries to power players. Rainulf Drengot, one of their leaders, was rewarded by the Duke of Naples with a small fief near Capua. This land, Aversa, became the **first Norman-controlled territory** in Italy — a foothold that would grow into a kingdom over the coming decades. Though less renowned than the Hautevilles the Drengots would remain power player in the region. Rainulf's rise to power attracted more normans to the region and started a new era.
+
+
 <p align="center">
   <img src="../assets/Aversa.png" alt="Rainulf Drengot" width="400"><br>
   <em>Rainulf Drengot, Firt Count of Aversa</em>
