@@ -7,7 +7,7 @@ All lyrics and songs in this repo are published under a Creative Commons license
 You're free to use, adapt, or build upon them — just credit me if you do. That would be much appreciated.
 ⚔️ Normans in the South – A Metal EP in Three Episodes
 
-![Normans in the South Map](./media/normans-map.png)
+![Normans in the South Map](./assets/normans-map.png)
 
 In the early 11th century, a band of restless warriors crossed the sea, lured by the clash of empires and the promise of land. These were the Normans — mercenaries, pilgrims, adventurers — and southern Italy would never be the same.
 
