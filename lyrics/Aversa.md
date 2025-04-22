@@ -1,6 +1,6 @@
 <p align="center">
   <img src="../assets/Aversa.png" alt="Rainulf Drengot" width="400"><br>
-  <em>ainulf Drengot, Firt Count of Aversa</em>
+  <em>Rainulf Drengot, Firt Count of Aversa</em>
 </p>
 
 [Intro – instrumental build]
