@@ -5,6 +5,7 @@ I work with AI tools (Suno for music, and ChatGPT for co-writing), but in the en
 
 All lyrics and songs in this repo are published under a Creative Commons license.
 You're free to use, adapt, or build upon them — just credit me if you do. That would be much appreciated.
+
 ⚔️ Normans in the South – A Metal EP in Three Episodes
 
 <p align="center">
@@ -15,7 +16,7 @@ You're free to use, adapt, or build upon them — just credit me if you do. That
 
 In the early 11th century, a band of restless warriors crossed the sea, lured by the clash of empires and the promise of land. These were the Normans — mercenaries, pilgrims, adventurers — and southern Italy would never be the same.
 
-Normans in the South is the first chapter in a growing metal saga.
+Normans in the South is the first chapter in a growing medieval rock/metal saga.
 This debut EP follows the dramatic rise of the Normans in Italy through thunderous riffs and battle-scarred verses:
 
     Monte Gargano – The first encounter. A Lombard rebellion brews in Apulia, and Norman pilgrims are drawn into the fight.
