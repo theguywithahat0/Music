@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="../assets/Cannae.png" alt="Cannae" width="400"><br>
+  <em>Second Battle of Cannae, 1018</em>
+</p>
+
 [style: epic female-fronted metal, cinematic, slow tempo]
 [vocals: female, clean, expressive, high diction clarity (Evanescence style)]
 [tempo: slow and deliberate throughout]
