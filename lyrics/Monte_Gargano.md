@@ -1,3 +1,8 @@
+> **Historical Background – Monte Gargano (1016)**
+>
+> In the early 11th century, the Lombard noble Melus of Bari led a rebellion against Byzantine rule in southern Italy. According to one of the major sources, Amamtus of Monte Casino, Melus met a band of Norman pilgrims (including the Drengot brothers) who had just arrived at Monte Gargano, a sacred site dedicated to Saint Michael, this would be the origin of the arrival of the Normans in the peninsula. Though few in number, the Normans agreed to join the uprising, marking their first step into the politics and warfare of the region.
+
+
 <p align="center">
   <img src="../assets/Monte_Gargano.png" alt="Monte Gargano" width="400"><br>
   <em>The meeting at the Shrine of the Archangel Michael</em>
