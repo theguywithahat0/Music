@@ -1,3 +1,7 @@
+> **Historical Background – Cannae (1018)**
+>
+> After initial success, Melus and his Norman allies were met with a crushing response from the Byzantines. At the Battle of Cannae in 1018 — near the same site where Hannibal once defeated the Romans — the rebel forces were decimated. The defeat was devastating, but the ferocity of the Norman warriors left a lasting impression on the region’s rulers. Gilbert Buatère, one of the Drengot brothers and leader of the Normans, would die in this battle. Far from ending the Norman invasion, the battle would prove a mere reprieve. Bari would remain under Imperial control until 1071 and would be the last imperial bastion to fall in Italy.
+
 <p align="center">
   <img src="../assets/Cannae.png" alt="Cannae" width="400"><br>
   <em>Second Battle of Cannae, 1018</em>
