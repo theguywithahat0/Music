@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="../assets/Monte_Gargano.png" alt="Monte Gargano" width="400"><br>
+  <em>The meeting at the Shrine of the Archangel Michael</em>
+</p>
+
 [Intro – Spoken, soft pads, ambient]  
 [Melus approaches a band of Norman pilgrims outside the shrine of Saint Michael.]  
 Hail good pilgrims, well met indeed,  
