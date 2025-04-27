@@ -13,7 +13,7 @@
 🎧 [Listen on Suno](https://suno.com/playlist/8fab0895-2741-4806-8241-46c52952045b)
 
 <p align="center">
-  <img src="./assets/Normans_EP_cover.png" alt="Normans in Southern Italy" width="600"><br>
+  <img src="./assets/Normans_in_the_South_Cover.png" alt="Normans in Southern Italy" width="600"><br>
   <em>Normans in the South</em>
 </p>
 
@@ -31,6 +31,11 @@ This debut EP follows the dramatic rise of the Normans in Italy through thundero
 
 - **Aversa** – *The first foothold.* Rainulf Drengot is made count, and a new Norman rise begins.  
   🎧 [Listen on Suno](https://suno.com/song/f1af0c51-93bc-4406-b14c-e3df9946788d?sh=axmNH95IkfAZjZgC)
+
+<p align="center">
+  <img src="./assets/Normans_in_the_South_map.png" alt="Normans in Southern Italy" width="600"><br>
+  <em>Map</em>
+</p>
 
 🛡️ More EPs are coming, chronicling the age of the Hautevilles, the conquest of Sicily, and beyond.  
 Follow along as I turn one of history’s wildest tales into a metal saga.
