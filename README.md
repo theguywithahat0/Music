@@ -2,9 +2,10 @@
 
 🎸 Here, I share lyrics I’ve written — mostly rock/metal, mostly historical, and mostly about the Normans.
 
-🤖 I work with AI tools (Suno for music, and ChatGPT for co-writing), but in the end, about 80% of the lyrics are mine, shaped by my voice and vision.
+🤖 I work with AI tools (Suno for music, and ChatGPT for co-writing), but in the end, the lyrics are mine.
 
-📝 All lyrics and songs in this repo are published under a Creative Commons license.
+📝 This work is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC_BY--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 📂 You're free to use, adapt, or build upon them — just credit me if you do. That would be much appreciated.
 
