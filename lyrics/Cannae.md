@@ -7,9 +7,7 @@
   <em>Second Battle of Cannae, 1018</em>
 </p>
 
-[style: epic female-fronted metal, cinematic, slow tempo]
-[vocals: female, clean, expressive, high diction clarity (Evanescence style)]
-[tempo: slow and deliberate throughout]
+[Style:Epic symphonic metal, medieval atmosphere, dark and tragic, female vocals, clean powerful delivery, orchestral, slow and heavy]
 
 [intro: very slow tempo, spoken over ambient pads, soft piano, distant drums]
 [spoken]
@@ -22,7 +20,7 @@ Yet Cannae is a place of death
 When Melus, prince of Lombard pride  
 Called Norman blades to fight beside  
 On sacred ground an oath was sworn  
-A strong alliance then was born  
+A fateful alliance there was born.
 They took to battle side by side,  
 Ravaged Apulia far and wide  
 
@@ -30,29 +28,29 @@ Ravaged Apulia far and wide
 And there they fell, on Cannae’s field  
 They rose, they fought, and did not yield  
 The Norman charge broken and crushed  
-The Empire’s will restored
+The Empire’s rule restored
 
 [verse: slow drive, ambient distortion, emphasis on vocal presence]
-Basil, fierce catapan, raised a host  
-To reclaim the land he had lost  
-For battle, two mighty forces  
-They clashed on Otranto’s shores  
+Basil Bo-ioann-es marched forth
+The catapan would prove his worth.
+Two mighty hosts drew up that day,
+They met where ancient legions lay.
 The Normans' charge was fierce and brave  
-Varangians would be their grave
+Va-ran-gi-ans became their grave
 
 [chorus: repeat with rising string swells, double vocals/harmonies]
 And there they fell, on Cannae’s field  
 They rose, they fought, and did not yield  
 The Norman charge broken and crushed  
-The Empire’s will restored
+The Empire’s rule restored
 
 [verse: darker tone, slower rhythm, layered instrumentation]
 The Lombards’ hopes were swept away  
 And with their lives they had to pay  
 Norman pride and bravery  
-Met great Varangian fury  
-The Empire struck back with might  
-And restored imperial right  
+Fell to Va-ran-gi-an fury
+The Empire answered with might
+To uphold its ancient right
 
 [bridge: very slow, spoken over ambient synth + piano only]
 [spoken]
@@ -65,19 +63,19 @@ Still fate would have the final say
 And there they fell, on Cannae’s field  
 They rose, they fought, and did not yield  
 The Norman charge broken and crushed  
-The Empire’s will restored
+The Empire’s rule restored
 
 [outro: spoken, very slow, fading strings and bells]
 [spoken]
 The Normans were routed and slain  
 Their banners torn, not in vain  
 More would ride south with bold intent  
-And with their wars cause great lament  
+And with their wars brought great lament  
 
 [ghost chorus: whispered or softly sung, over ambient pads or single piano line]
 And there they fell, on Cannae’s field  
 They rose, they fought, and did not yield  
 The Norman charge broken and crushed  
-The Empire’s will restored  
+The Empire’s rule restored
 
-April 22, 2025 at 8:36 PM - Jeremie Hugues
+April 21, 2026 - Jérémie Hugues
