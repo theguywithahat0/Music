@@ -8,65 +8,67 @@
   <em>Rainulf Drengot, Firt Count of Aversa</em>
 </p>
 
+[Styles: Medieval rock, epic folk rock, celebratory and triumphant, male light baritone or tenor vocals, clear diction, steady mid-tempo, melodic electric and acoustic guitars, drums, strings, flute, layered backing vocals, uplifting chorus, historical atmosphere, not metal]
+
 [Intro – instrumental build]
 [Sound: thunder, distant drums, ambient wind swell]
 
 [Verse 1 – mid-tempo, brooding]
-Cast from the north, from Normandy  
-He traveled far for redemption  
-With his brothers and companions  
-To forge his path, his destiny  
+Cast from the north, from Normandy,
+He rode with brothers at his side,
+To flee the weight of infamy,
+And there let fate become his guide
 
 [Verse 2 – marching rhythm, rising tension]
-The Drengot brothers sought the fight  
-They rode with Melus to Cannae’s field  
-Through victory and through defeat  
-They fought for who would pay the price  
+The Drengot brothers joined the fight
+They pledged to Melus, sowed great strife
+At Cannae they faced greater might
+There Gilbert fell and lost his life
 
 [Chorus – chant-like, bold, layered]
-A simple sellssword, a proud Norman  
-He fought for gold, he fought for more  
-No king, no lord — a war-forged man  
-To rule a land on foreign shores  
-His legend written forever  
+A simple sellsword, a proud Norman
+He fought for gold, he fought for more
+No king, no lord — a war-forged man
+To rule a land on foreign shores
+His name remembered evermore
 “Hail, Rainulf — Count of Aversa!”
 
 [Verse 3 – confident, battle-worn]
-He fought for coin but wanted more  
-He fought for patrons, dukes and lords  
-Was granted gold, domain, and wife  
-Rose a count from a sellssword’s life  
+He rose to lead the Norman band,
+He rode for hire from lord to lord,
+Served Capua, plundered the land,
+And swore his only oath to gold.
 
 [Verse 4 – darker, triumphant tone]
-A Norman lord in Lombard land  
-He fought, betrayed and knew the game  
-To always rise and feel no shame  
-His fortune made by his own hand  
+For coin and bride he changed his side,
+For Naples he fought Capua,
+A fief he gained and rose in pride,
+He became lord of Aversa
 
 [Chorus – repeated, add backing vocals]
-A simple sellssword, a proud Norman  
-He fought for gold, he fought for more  
-No king, no lord — a war-forged man  
-To rule a land on foreign shores  
-His legend written forever  
+A simple sellsword, a proud Norman
+He fought for gold, he fought for more
+No king, no lord — a war-forged man
+To rule a land on foreign shores
+His name remembered evermore
 “Hail, Rainulf — Count of Aversa!”
 
 [Bridge – slow, spoken or half-sung over ambient guitar]
-He watched his brothers bleed and break  
-Then pledged his sword for power’s sake  
-His patrons crowned him with deceit  
-Yet still he rose — and took their seat  
+Through blood and gold he forged his name,
+Through shifting lords and southern war,
+No longer bound to serve for pay,
+Now Rainulf ruled from Aversa.
 
 [Final Chorus – faster, triumphant, chant energy]
-A simple sellssword, a proud Norman  
-He fought for gold, he fought for more  
-No king, no lord — a war-forged man  
-To rule a land on foreign shores  
-His legend written forever  
+A simple sellsword, a proud Norman
+He fought for gold, he fought for more
+No king, no lord — a war-forged man
+To rule a land on foreign shores
+His name remembered evermore
 “Hail, Rainulf — Count of Aversa!”
 
 [Outro – fading, echoing]
-“Hail... Rainulf... Count of Aversa...”  
+“Hail... Rainulf... Count of Aversa...”
 [Sound: fading drums, distant thunder, boots in mud]
 
-April 22, 2025 at 8:11 PM - Jeremie Hugues
+April 21, 2026 - Jérémie Hugues
