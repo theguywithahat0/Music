@@ -1,10 +1,8 @@
 # Campania
 
-![Campania](../assets/ALB001_TRK004.png)
-
 > **Historical context:** After the first Norman interventions in southern Italy, their reputation as mounted warriors spread. Lombards, Greeks, princes, popes, and emperors all learned that Norman swords could be hired — and that mercenaries might one day become masters.
 
-[Intro]
+![Campania](../assets/ALB001_TRK004.png)
 
 [Verse 1]
 Drawn by tales of heavenly lands,
