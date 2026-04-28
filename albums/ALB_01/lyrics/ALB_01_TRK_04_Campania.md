@@ -1,7 +1,10 @@
-[Styles: medieval rock, dynamic male vocals, energetic clean lead, galloping rhythm, anthemic, cinematic, adventurous]
+# Campania
+
+![Campania](../assets/ALB001_TRK004.png)
+
+> **Historical context:** After the first Norman interventions in southern Italy, their reputation as mounted warriors spread. Lombards, Greeks, princes, popes, and emperors all learned that Norman swords could be hired — and that mercenaries might one day become masters.
 
 [Intro]
-[driving drums, building tension]
 
 [Verse 1]
 Drawn by tales of heavenly lands,
@@ -13,7 +16,7 @@ Where those who dare could earn far more.
 
 [Chorus]
 Norman swords are for sale,
-Across Cam-pa-ni-aa,
+Across Campania,
 Have you heard of their tale?
 Pay them to fight your wars.
 Your coin deserves the best,
@@ -28,9 +31,8 @@ Lombards, Greeks, counts, emperors,
 Would spend good coin on warriors.
 
 [Chorus]
-[gang vocals]
 Norman swords are for sale,
-Across Cam-pa-ni-aa,
+Across Campania,
 Have you heard of their tale?
 Pay them to fight your wars.
 Your coin deserves the best,
@@ -45,19 +47,15 @@ Who goes to war in Italy,
 Pays warriors from Normandy.
 
 [Bridge]
-[darker]
 Men of war, men of carnage,
-Would usher in a Norman age,
+Would usher in a Norman age.
 Silver, gold and praise they earned,
 But for their own lands they yearned.
 
 [Final Chorus]
-[fuller, gang vocals]
 Norman swords are for sale,
-Across Cam-pa-ni-aa,
+Across Campania,
 Have you heard of their tale?
 Pay them to fight your wars.
 Your coin deserves the best,
 And their greed will never rest.
-
-April 21, 2026 - Jérémie Hugues
