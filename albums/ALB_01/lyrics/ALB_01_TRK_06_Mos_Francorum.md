@@ -1,55 +1,77 @@
-[Styles:Medieval Rock, Epic Rock, Triumphant War Anthem, Male Commanding Vocals, Mid-Slow Marching Tempo, Regal and Victorious Mood, Heavy Drums, Distorted Guitars, Low Strings, Choir]
+# Mos Francorum
 
-[Intro – solemn, regal, slow build]
-[Sound: low drums, distant horns, rising strings]
+> **Historical context:** By the time Rainulf Drengot ruled from Aversa, the Normans had learned how to survive and thrive among the rival powers of southern Italy. This song frames Rainulf as the voice of the Norman way: a path of service, war, fortune, and lordship.
 
-[Verse 1 – proud, seated power, cold authority]
-In my marble halls I sit in fame
-I take brides, lands and gold to name
-I cut the strings, bow to no lord
-Lombards and Greeks both fear my sword
+![Mos Francorum](../assets/ALB001_TRK006.png)
 
+[Intro]
+Through exile’s road and lands afar,
+A son cast out from Normandy.
+Now lord of Aversa,
+Of Gaeta and Capua.
+All Italy respects my name:
+Rainulf Drengo.
+
+[Verse 1A]
+In my great hall I sit in fame,
+I take brides, lands and gold to name.
+I broke my bonds, bow to no lord,
+Lombards and Greeks all fear my sword.
+
+[Verse 1B]
 By force and guile took Capua,
-For loyal deeds, won Ga-eta,
-I stretched afar my proud domain,
-The Em-peror confirmed my claim
+For loyal deeds, earned Gaeta.
+I carved afar my vast domain,
+The Emperor confirmed my claim.
 
-[Chorus – broad, triumphant, declarative]
-In the south a lord I stand
-Mos Francorum — claim this land
-Emperors respect my name
-Mos Francorum — rise to fame
+[Chorus]
+The Norman Way — make your name!
+The Norman Way — sword in hand!
+The Norman Way — rise to fame!
+The Norman Way — claim this land!
 
-[Verse 2 – summoning, expansive, visionary]
-Come south, o brothers, heed my call
-Gold, fame and silver wait for all
-Be welcome in my lordly hall
-Fortune always favors the bold
+[Verse 2A]
+Come south, o kinsmen, south of Rome,
+Where landless men may find a home.
+With steel come earn silver and gold,
+Fortune ever favors the bold!
 
-In these lands lying south of Rome
-We shall make a Norman home
-In the south the dawn shall rise
-The Norman age before your eyes
+[Verse 2B]
+Come south, o kinsmen, heed my call,
+Be welcome in my lordly hall.
+Come south, o Normans, follow me,
+Here waits our destiny!
 
-[Chorus – fuller, more anthemic]
-In the south a lord I stand
-Mos Francorum — claim this land
-Emperors respect my name
-Mos Francorum — rise to fame
+[Chorus]
+The Norman Way — make your name!
+The Norman Way — sword in hand!
+The Norman Way — rise to fame!
+The Norman Way — claim this land!
 
-[Bridge – resolute, prophetic, rising emotion]
-I came with sword , carved my domain,
-Rose to fame, now high I stand,
-Bold warri-ors will rise to fame,
-A new dawn for the southern land.
+[Bridge]
+By sword alone I made my stand,
+Now a great lord of this rich land.
+I call you sons of Normandy,
+Ride south and claim your destiny!
 
-[Final Chorus – biggest, victorious, gang vocals optional]
-In the south a lord I stand
-Mos Francorum — claim this land
-Emperors respect my name
-Mos Francorum — rise to fame
+[War Chant]
+The Norman Way!
+The Norman Way!
+The Norman Way!
+Claim this land!
 
-[Outro – fading, triumphant, forward-looking]
-[Choir echoes “Mos Francorum” as drums and strings fade]
+[Final Chorus]
+The Norman Way — make your name!
+The Norman Way — sword in hand!
+The Norman Way — rise to fame!
+The Norman Way — claim this land!
 
-April 24, 2026 - Jérémie Hugues
+[Final Chorus Reprise]
+The Norman Way — make your name!
+The Norman Way — sword in hand!
+The Norman Way — rise to fame!
+The Norman Way — claim this land!
+
+[Outro]
+The Norman Way!
+Claim this land!
