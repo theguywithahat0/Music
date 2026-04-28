@@ -1,8 +1,8 @@
 # Monte Gargano
 
-![Monte Gargano](../assets/ALB001_TRK002.png)
-
 > **Historical context:** At the shrine of Saint Michael on Monte Gargano, the Lombard rebel Melus of Bari meets Norman pilgrims returning from the Holy Land. His appeal draws the Normans toward the wars of southern Italy.
+
+![Monte Gargano](../assets/ALB001_TRK002.png)
 
 [Intro]
 Hail good pilgrims, well met indeed,
