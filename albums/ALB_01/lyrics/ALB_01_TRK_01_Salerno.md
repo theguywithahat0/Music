@@ -1,8 +1,8 @@
 # Salerno
 
-![Salerno](../assets/ALB001_TRK001.png)
-
 > **Historical context:** A group of Norman pilgrims returning from Jerusalem reaches Salerno, where Saracen raiders threaten the city. In the legend, the Normans reject tribute, take up arms, and show southern Italy the value of Norman steel.
+
+![Salerno](../assets/ALB001_TRK001.png)
 
 [Verse 1]
 Weary pilgrims, Norman men,
