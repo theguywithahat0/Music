@@ -1,6 +1,10 @@
-[Styles: Medieval Rock, Epic Heavy Metal, Male Baritone Vocals, Gang Shouts, Martial, Dark, Triumphant, Mid-Tempo (~90 BPM), Driving Drums, Heavy Guitars, Cinematic]
+# Salerno
 
-[Verse 1 – steady, road-worn, reverent but proud]
+![Salerno](../assets/ALB001_TRK001.png)
+
+> **Historical context:** A group of Norman pilgrims returning from Jerusalem reaches Salerno, where Saracen raiders threaten the city. In the legend, the Normans reject tribute, take up arms, and show southern Italy the value of Norman steel.
+
+[Verse 1]
 Weary pilgrims, Norman men,
 Yearning to see home again,
 Back from far Jerusalem,
@@ -10,11 +14,11 @@ Merchants sailed from far and wide.
 Towers rose above the bay,
 Porters cried along the quay.
 
-[Pre-Chorus – tension rising, ominous]
+[Pre-Chorus]
 On the horizon, Saracen sails,
 They come to plunder and defile.
 
-[Chorus – explosive, gang shouts, hard-hitting]
+[Chorus]
 Drive them back! Stand and fight!
 In the name of Jesus Christ!
 Break their ranks and let us ride,
@@ -22,7 +26,7 @@ Cast them back into the tide!
 Drive them back! Hold the line!
 Saracen blood reddens the brine!
 
-[Verse 2 – contemptuous, sharper delivery, building momentum]
+[Verse 2]
 Saracens landed ashore,
 To defile and plunder more.
 In the square the silver laid,
@@ -32,11 +36,11 @@ Normans mocked such craven ways.
 Drew their swords ready to kill,
 Tribute shall be paid with steel!
 
-[Pre-Chorus 2 – short, urgent, charging forward]
+[Pre-Chorus 2]
 Out through the gates the Normans charged,
 To strike the Saracens down!
 
-[Chorus – bigger, more forceful]
+[Chorus]
 Drive them back! Stand and fight!
 In the name of Jesus Christ!
 Break their ranks and let us ride,
@@ -44,7 +48,7 @@ Cast them back into the tide!
 Drive them back! Hold the line!
 Saracen blood reddens the brine!
 
-[Verse 3 – full battle energy, relentless, triumphant]
+[Verse 3]
 Norman riders charged ahead,
 Struck the Mahometans dead.
 No tribute would be paid that day,
@@ -54,17 +58,17 @@ Still the Norman warriors ride!
 Unleashing holy fury,
 Riding on to victory!
 
-[Bridge – slower, solemn, prophetic, with restrained instrumentation at first]
+[Bridge]
 Prince Guaimar offered them gold,
 Silver, thanks, and words of praise.
 Normans would take no reward,
-Swear no oaths of fe-al-ty,
+Swear no oaths of fealty,
 Northward then they rode away,
 Told their tale to kin and friend.
-Norman knights would soon ride South,
+Norman knights would soon ride south,
 For coin, for glory, and for land.
 
-[Final Chorus – maximum intensity, biggest gang vocals]
+[Final Chorus]
 Drive them back! Stand and fight!
 In the name of Jesus Christ!
 Break their ranks and let us ride,
@@ -72,10 +76,8 @@ Cast them back into the tide!
 Drive them back! Hold the line!
 Thus began the Norman tide!
 
-[Outro – triumphant, fateful, lingering final chords]
+[Outro]
 From Salerno word was borne,
 Southward came the Norman storm.
 No more pilgrims, men of war,
 A new age of conquerors!
->
-April 21, 2026 - Jérémie Hugues
