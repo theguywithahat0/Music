@@ -1,8 +1,8 @@
 # Cannae
 
-![Cannae](../assets/ALB001_TRK003.png)
-
 > **Historical context:** In 1018, Melus and his Lombard-Norman allies met the Byzantine catapan Basil Boioannes near Cannae. The rebels were crushed, but the battle did not end the Norman story in Italy.
+
+![Cannae](../assets/ALB001_TRK003.png)
 
 [Intro]
 Who dares defy an Empire,
